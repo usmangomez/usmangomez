@@ -12,3 +12,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![VueJS](https://img.shields.io/badge/-VueJS-56d364?style=flat-square&logo=vuejs)
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
