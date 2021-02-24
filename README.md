@@ -12,4 +12,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![VueJS](https://img.shields.io/badge/-VueJS-56d364?style=flat-square&logo=vuejs)
-![HTML5]https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
